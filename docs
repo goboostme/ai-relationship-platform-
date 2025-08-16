@@ -1,0 +1,9 @@
+# Vision
+
+The goal is to create a persistent AI relationship platform capable of realistic text, NSFW image, and NSFW short-form video generation — all running at scale for thousands of users.
+
+## Core Principles
+1. **Realism** – Output should feel natural and engaging.
+2. **Persistence** – Conversations, images, and videos should connect to user history.
+3. **Scalability** – System must handle thousands of concurrent sessions without performance drops.
+4. **Efficiency** – Cost-effective GPU usage to keep margins high.
