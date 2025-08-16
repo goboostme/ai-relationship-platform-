@@ -1,0 +1,15 @@
+# Tech Stack
+
+## Core AI Models
+- **Text**: Qwen, Mistral (fine-tuned for NSFW conversation)
+- **Image**: SDXL (custom fine-tuning for realism + NSFW)
+- **Video**: Hunyuan or equivalent NSFW-capable models
+
+## Infrastructure
+- **GPU orchestration**: RunPod, Lambda Labs
+- **Containerization**: Docker
+- **Scalability**: Serverless GPU bursts for peak demand
+
+## Other Tools
+- Python (PyTorch, FastAPI)
+- Frontend: TBD (React / Next.js likely)
